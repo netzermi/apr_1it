@@ -12,9 +12,11 @@ public class Wortausgabe {
 //            System.out.println(wort);
 //            i++;
 //        }
-        for(int i = 0; i < laenge; i++){
+        for(int i = 0; i < laenge; i++) {
             System.out.println(wort);
         }
+
+
 
     }
 }
