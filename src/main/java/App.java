@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class App {
 
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Masse in KG eingeben");
         double masse = Double.valueOf(scanner.next());
